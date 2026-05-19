@@ -1,7 +1,7 @@
 # Laboratory Work No. 3  
 ## Programming Telemetry Data Transmission Using the UDP Protocol
 
-![Laboratory Work 3 - Python UDP Telemetry](images/lab-03-poster.png)
+![Laboratory Work 3 - Python UDP Telemetry](assets/lab-03-poster.png)
 
 ## Purpose of the Work
 
