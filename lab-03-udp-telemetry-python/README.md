@@ -1,6 +1,8 @@
 # Laboratory Work No. 3  
 ## Programming Telemetry Data Transmission Using the UDP Protocol
 
+![Laboratory Work 3 - Python UDP Telemetry](images/lab-03-poster.png)
+
 ## Purpose of the Work
 
 The purpose of this laboratory work is to study the principles of network data exchange between software nodes using the UDP protocol and to gain practical skills in creating a UDP client and a UDP server in Python.
