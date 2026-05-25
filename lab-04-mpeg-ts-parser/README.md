@@ -8,7 +8,7 @@
 
 The program can be used for educational purposes to demonstrate how digital television transport streams are structured and how binary packet data can be processed in Python.
 
----
+
 
 ##  Laboratory Work Topic
 
@@ -18,7 +18,6 @@ The program can be used for educational purposes to demonstrate how digital tele
 
 **Лабораторна робота №4. Програмування аналізатора транспортного потоку MPEG-TS для цифрового телебачення**
 
----
 
 ## Course Information
 
@@ -27,8 +26,6 @@ The program can be used for educational purposes to demonstrate how digital tele
 **Author:** Pavlo Galkin  
 **Academic years:** 2025–2026  
 **Language:** Python 3  
-
----
 
 ##  Features
 
@@ -43,7 +40,6 @@ The program can be used for educational purposes to demonstrate how digital tele
 - Identifying known service PIDs
 - Saving PID statistics to a CSV file
 
----
 
 ##  MPEG-TS Packet Basics
 
