@@ -1,6 +1,6 @@
 
 # Laboratory Work No. 4  
-
+![Programming an MPEG-TS Transport Stream Analyzer for Digital Television Systems](../assets/lab-04-mpeg-ts-parser.png)
 
 ##  Project Description
 
