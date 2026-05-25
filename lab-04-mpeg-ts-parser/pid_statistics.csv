@@ -1,0 +1,61 @@
+PID_HEX,PID_DEC,PACKETS,PAYLOAD_UNIT_START_COUNT,SCRAMBLED_PACKETS,CONTINUITY_COUNTER_ERRORS,TYPE
+0x0000,0,5,5,0,0,PAT - Program Association Table
+0x0001,1,5,5,0,0,CAT - Conditional Access Table
+0x0010,16,1,1,0,0,NIT - Network Information Table
+0x0011,17,5,2,0,0,SDT/BAT - Service Description Table
+0x0012,18,27,22,0,0,EIT - Event Information Table
+0x0031,49,213,177,0,0,Unknown / Elementary Stream
+0x0052,82,49,3,0,0,Unknown / Elementary Stream
+0x0056,86,5,5,0,0,Unknown / Elementary Stream
+0x005C,92,311,31,0,0,Unknown / Elementary Stream
+0x00B8,184,3,1,0,0,Unknown / Elementary Stream
+0x0100,256,26,13,0,0,Unknown / Elementary Stream
+0x0101,257,26,13,0,0,Unknown / Elementary Stream
+0x0102,258,28,14,0,0,Unknown / Elementary Stream
+0x0104,260,5,5,0,0,Unknown / Elementary Stream
+0x0105,261,5,5,0,0,Unknown / Elementary Stream
+0x010B,267,5,5,0,0,Unknown / Elementary Stream
+0x010C,268,5,5,0,0,Unknown / Elementary Stream
+0x012D,301,1023,1023,0,0,Unknown / Elementary Stream
+0x0200,512,9001,60,0,0,Unknown / Elementary Stream
+0x0201,513,9844,60,0,0,Unknown / Elementary Stream
+0x0202,514,8127,58,0,0,Unknown / Elementary Stream
+0x0203,515,4398,56,0,0,Unknown / Elementary Stream
+0x0206,518,2747,60,0,0,Unknown / Elementary Stream
+0x0240,576,473,59,0,0,Unknown / Elementary Stream
+0x0241,577,473,59,0,0,Unknown / Elementary Stream
+0x0242,578,414,59,0,0,Unknown / Elementary Stream
+0x0244,580,12,12,0,0,Unknown / Elementary Stream
+0x0247,583,12,12,0,0,Unknown / Elementary Stream
+0x024C,588,12,12,0,0,Unknown / Elementary Stream
+0x028A,650,311,31,0,0,Unknown / Elementary Stream
+0x028B,651,311,31,0,0,Unknown / Elementary Stream
+0x028C,652,312,31,0,0,Unknown / Elementary Stream
+0x028D,653,312,31,0,0,Unknown / Elementary Stream
+0x0290,656,311,31,0,0,Unknown / Elementary Stream
+0x029B,667,221,24,0,0,Unknown / Elementary Stream
+0x02A1,673,320,25,0,0,Unknown / Elementary Stream
+0x0331,817,59,59,0,0,Unknown / Elementary Stream
+0x0337,823,59,59,0,0,Unknown / Elementary Stream
+0x033C,828,58,58,0,0,Unknown / Elementary Stream
+0x03F2,1010,124,124,0,0,Unknown / Elementary Stream
+0x0450,1104,5,5,0,0,Unknown / Elementary Stream
+0x0451,1105,5,5,0,0,Unknown / Elementary Stream
+0x0452,1106,5,5,0,0,Unknown / Elementary Stream
+0x0453,1107,5,5,0,0,Unknown / Elementary Stream
+0x07E5,2021,311,19,0,0,Unknown / Elementary Stream
+0x07E7,2023,945,47,0,0,Unknown / Elementary Stream
+0x07EF,2031,472,30,0,0,Unknown / Elementary Stream
+0x0BC2,3010,4,2,0,0,Unknown / Elementary Stream
+0x0BC3,3011,2,2,0,0,Unknown / Elementary Stream
+0x0BCC,3020,4,2,0,0,Unknown / Elementary Stream
+0x0BCD,3021,2,2,0,0,Unknown / Elementary Stream
+0x0BD6,3030,4,2,0,0,Unknown / Elementary Stream
+0x0BD7,3031,2,2,0,0,Unknown / Elementary Stream
+0x0BE0,3040,2,2,0,0,Unknown / Elementary Stream
+0x1388,5000,14,14,0,0,Unknown / Elementary Stream
+0x1398,5016,1,1,0,0,Unknown / Elementary Stream
+0x1399,5017,5,4,0,0,Unknown / Elementary Stream
+0x139A,5018,13,9,0,0,Unknown / Elementary Stream
+0x1FFE,8190,2436,60,0,0,Unknown / Elementary Stream
+0x1FFF,8191,9296,0,0,0,Null Packet
